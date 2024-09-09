@@ -10,7 +10,7 @@ for (let i = 25; i >= 0; i--) {
 
 for (let i = 1; i <= 10; i++) {
     let square = i * i;
-    console.log(`squqre ${i} is ${square}`);
+    console.log(`${i} is ${square}`);
 }
 
 //q3
