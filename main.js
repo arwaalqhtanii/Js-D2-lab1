@@ -1,11 +1,11 @@
 
 //q1
 
-for (let i = 25; i >= 0; i--) {
-    if (i % 2 === 0) {
-        console.log(i);
+for (let i = 0; i <= 25; i++) {
+    if (i % 2 == 0) {
+      console.log(i);
     }
-}
+  }
 //q2
 
 for (let i = 1; i <= 10; i++) {
